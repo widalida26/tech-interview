@@ -1,6 +1,14 @@
 # tech-interview
 preparation for technical interviews
 
+## OS
+프로세스 
+- 실행 중인 프로그램
+- 동작을 하는 능동적 개체
+
+프로그램
+- 동작을 하지 않는 정적/수동적 개체
+
 ## WEB
 
 ### OSI 7계층
