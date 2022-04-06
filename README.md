@@ -18,6 +18,10 @@ preparation for technical interviews
 - 프로그램이 작동할 수 있도록 물리적 장치를 배분
 
 
+쉘
+- 사람이 실행하는 명령어를 프로그램이 실행할 수 있도록 만들어주는 인터페이스
+
+
 ## WEB
 
 ### OSI 7계층
