@@ -1,5 +1,5 @@
 # tech-interview
-technical interviews summary
+summary for technical interview
 
 ## OS
 프로그램
